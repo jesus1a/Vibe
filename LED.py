@@ -1,3 +1,4 @@
+#So far this should just turn an LED on and off constantly in 5 sec intervals
 import RPi.GPIO as GPIO
 import time as time
 GPIO.cleanup()
