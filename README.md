@@ -1,2 +1,2 @@
 # Vibe
-Vibration sensor usage in python
+This code will utilize a Vibration sensor programmed in python
