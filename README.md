@@ -1,7 +1,7 @@
 # Team 1 FALL2021 CS-530 Group project: Vibration Sensor
 
 ## Video demo
-Click the link to check out the demo：[Demo](https://www.youtube.com/watch?v=ASYbGuQbtTQ&ab_channel=MrTurtlecraft)
+Click to check out the demo：[Demo](https://www.youtube.com/watch?v=ASYbGuQbtTQ&ab_channel=MrTurtlecraft)
 
 ## Hardware
 
