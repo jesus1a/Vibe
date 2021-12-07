@@ -1,4 +1,4 @@
-# Team 1 - FALL2021 CS-530 Group project: Vibration Sensor
+# Team 1 FALL2021 CS-530 Group project: Vibration Sensor
 
 ## Video demo
 Click the link to check out the demo：[Demo](link here)
